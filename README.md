@@ -4,26 +4,26 @@
  * @Author: Sunny
  * @Date: 2022-01-14 11:01:22
  * @LastEditors: Sunny
- * @LastEditTime: 2022-01-14 11:12:05
+ * @LastEditTime: 2022-01-14 11:22:02
 -->
 [toc]
 
 
 ##  获知参数变化的值
-- 1.![16b7f4f80f0eb5940eebfa2caf4bbe08.png](:/162c7d314de24da4a047354c5baff51f)
+- 1.![16b7f4f80f0eb5940eebfa2caf4bbe08.png](:pic/162c7d314de24da4a047354c5baff51f)
 - 2.查看变量参数的变化，在界面操作点击不同的变量参数位置，洞悉不同参数变量的改变
-- 3.![2b863d2d14a6e4efefe4d12f514233ae.png](:/03076f687a8245a185066e9b42acaaf6)
-  ![dd2a8d92ccdb1c17df0957fb49063e89.png](:/0ac4e23357b74a899e052714dc13edc2)
-  ![9b560e807fbef1d024ceeb78dc13b209.png](:/42d2a5a8099b4d1e862be2549ac562cf)
+- 3.![2b863d2d14a6e4efefe4d12f514233ae.png](:pic/03076f687a8245a185066e9b42acaaf6)
+  ![dd2a8d92ccdb1c17df0957fb49063e89.png](:pic/0ac4e23357b74a899e052714dc13edc2)
+  ![9b560e807fbef1d024ceeb78dc13b209.png](:pic/42d2a5a8099b4d1e862be2549ac562cf)
 ## copy curl 验证是否能够下载文件
-- ![e48f937fd093ef01565fc7b652abac82.png](:/3f42e92a11144c038a23a08b164b04f3)
+- ![e48f937fd093ef01565fc7b652abac82.png](:pic/3f42e92a11144c038a23a08b164b04f3)
 <font color = "	#EEB4B4" size = '4'> copy as curl(bash)命令测试</font>
 ## 在Network中寻找 .xhr文件（这是个人经验，需要长时间积累）
-- ![303565c1cccf02de0bb650864cf33712.png](:/08f014469f1647fdbda98dc91abdb4e6)
+- ![303565c1cccf02de0bb650864cf33712.png](:pic/08f014469f1647fdbda98dc91abdb4e6)
 ## 将找到的.xlr文件点开搜索需要的代码段
-- ![96e33633168eb549b01c8be36e1ceab4.png](:/71da3b0b48d74ab9879730de3f3453f4)
+- ![96e33633168eb549b01c8be36e1ceab4.png](:pic/71da3b0b48d74ab9879730de3f3453f4)
 - 快速获取我们想要的json文件可以直接copy response产品的类目到notepad++然后删除我们不需要的部分
-![d371ccce4c013b8d89fd199d9341d616.png](:/83b00b80c9e54438bede386aa94019c5) 
+![d371ccce4c013b8d89fd199d9341d616.png](:pic/83b00b80c9e54438bede386aa94019c5) 
 ##  python读入json处理，将其解析转成Dataframe
 - 这里直接使用pd.DataFrame()来操作
 
