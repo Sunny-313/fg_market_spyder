@@ -1,13 +1,25 @@
+
 <!--
  * @Description: 
  * @version: 
  * @Author: Sunny
  * @Date: 2022-01-14 11:01:22
  * @LastEditors: Sunny
- * @LastEditTime: 2022-01-14 13:49:55
+ * @LastEditTime: 2022-01-14 14:27:26
 -->
-[toc]
+<!-- TOC -->
 
+- [飞瓜数据中关于市场大盘的数据爬取](#飞瓜数据中关于市场大盘的数据爬取)
+    - [获知参数变化的值](#获知参数变化的值)
+    - [copy curl 验证是否能够下载文件](#copy-curl-验证是否能够下载文件)
+    - [在Network中寻找 .xhr文件（这是个人经验，需要长时间积累）](#在network中寻找-xhr文件这是个人经验需要长时间积累)
+    - [将找到的.xlr文件点开搜索需要的代码段](#将找到的xlr文件点开搜索需要的代码段)
+    - [python读入json处理，将其解析转成Dataframe](#python读入json处理将其解析转成dataframe)
+    - [本次实操需要注意的点](#本次实操需要注意的点)
+
+<!-- /TOC -->
+
+# 飞瓜数据中关于市场大盘的数据爬取
 
 ##  获知参数变化的值
 - 1.![1](pic/16b7f4f80f0eb5940eebfa2caf4bbe08.png)
