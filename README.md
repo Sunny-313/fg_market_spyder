@@ -4,16 +4,16 @@
  * @Author: Sunny
  * @Date: 2022-01-14 11:01:22
  * @LastEditors: Sunny
- * @LastEditTime: 2022-01-14 11:22:02
+ * @LastEditTime: 2022-01-14 11:27:21
 -->
 [toc]
 
 
 ##  获知参数变化的值
-- 1.![16b7f4f80f0eb5940eebfa2caf4bbe08.png](:pic/162c7d314de24da4a047354c5baff51f)
+- 1.![16b7f4f80f0eb5940eebfa2caf4bbe08.png](:/pic/162c7d314de24da4a047354c5baff51f)
 - 2.查看变量参数的变化，在界面操作点击不同的变量参数位置，洞悉不同参数变量的改变
-- 3.![2b863d2d14a6e4efefe4d12f514233ae.png](:pic/03076f687a8245a185066e9b42acaaf6)
-  ![dd2a8d92ccdb1c17df0957fb49063e89.png](:pic/0ac4e23357b74a899e052714dc13edc2)
+- 3.![2b863d2d14a6e4efefe4d12f514233ae.png](:/pic/03076f687a8245a185066e9b42acaaf6.png)
+  ![dd2a8d92ccdb1c17df0957fb49063e89.png](:/pic/0ac4e23357b74a899e052714dc13edc2)
   ![9b560e807fbef1d024ceeb78dc13b209.png](:pic/42d2a5a8099b4d1e862be2549ac562cf)
 ## copy curl 验证是否能够下载文件
 - ![e48f937fd093ef01565fc7b652abac82.png](:pic/3f42e92a11144c038a23a08b164b04f3)
