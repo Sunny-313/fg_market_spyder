@@ -7,7 +7,18 @@
  * @LastEditors: Sunny
  * @LastEditTime: 2022-01-14 14:27:26
 -->
-<!-- TOC -->autoauto- [飞瓜数据中关于市场大盘的数据爬取](#飞瓜数据中关于市场大盘的数据爬取)auto  - [获知参数变化的值](#获知参数变化的值)auto  - [copy curl 验证是否能够下载文件](#copy-curl-验证是否能够下载文件)auto  - [在Network中寻找 .xhr文件（这是个人经验，需要长时间积累）](#在network中寻找-xhr文件这是个人经验需要长时间积累)auto  - [将找到的.xlr文件点开搜索需要的代码段](#将找到的xlr文件点开搜索需要的代码段)auto  - [python读入json处理，将其解析转成Dataframe](#python读入json处理将其解析转成dataframe)auto  - [本次实操需要注意的点](#本次实操需要注意的点)auto- [爬取下来的数据处理问题](#爬取下来的数据处理问题)autoauto<!-- /TOC -->
+<!-- TOC -->
+
+- [飞瓜数据中关于市场大盘的数据爬取(**<font color = 'red'>dyCate.py</font>**)](#飞瓜数据中关于市场大盘的数据爬取font-color--reddycatepyfont)
+  - [获知参数变化的值](#获知参数变化的值)
+  - [copy curl 验证是否能够下载文件](#copy-curl-验证是否能够下载文件)
+  - [在Network中寻找 .xhr文件（这是个人经验，需要长时间积累）](#在network中寻找-xhr文件这是个人经验需要长时间积累)
+  - [将找到的.xlr文件点开搜索需要的代码段](#将找到的xlr文件点开搜索需要的代码段)
+  - [python读入json处理，将其解析转成Dataframe](#python读入json处理将其解析转成dataframe)
+  - [本次实操需要注意的点](#本次实操需要注意的点)
+- [爬取下来的数据处理问题(<font color = 'red'>to_csv.py</font>)](#爬取下来的数据处理问题font-color--redto_csvpyfont)
+
+<!-- /TOC -->
 
 # 飞瓜数据中关于市场大盘的数据爬取(**<font color = 'red'>dyCate.py</font>**)
 
