@@ -28,7 +28,7 @@
   ![3](pic/dd2a8d92ccdb1c17df0957fb49063e89.png)
   ![4](pic/9b560e807fbef1d024ceeb78dc13b209.png)
 ## copy curl 验证是否能够下载文件
-- ![5](pic/3f42e92a11144c038a23a08b164b04f3)
+- ![5](pic/e48f937fd093ef01565fc7b652abac82.png)
 <font color = "	#EEB4B4" size = '4'> copy as curl(bash)命令测试</font>
 
 ## 在Network中寻找 .xhr文件（这是个人经验，需要长时间积累）
