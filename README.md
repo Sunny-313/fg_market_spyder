@@ -4,8 +4,8 @@
  * @version: 
  * @Author: Sunny
  * @Date: 2022-01-14 11:01:22
- * @LastEditors: Sunny
- * @LastEditTime: 2022-01-14 14:27:26
+ * @LastEditors: Yaoyao
+ * @LastEditTime: 2022-02-06 17:53:52
 -->
 <!-- TOC -->
 
@@ -32,7 +32,7 @@
 - ![5](pic/e48f937fd093ef01565fc7b652abac82.png)
 <font color = "	#EEB4B4" size = '4'> copy as curl(bash)命令测试</font>
 
-## 在Network中寻找 .xhr文件（这是个人经验，需要长时间积累）
+## 在Network中寻找 .xhr文件
 - ![6](pic/303565c1cccf02de0bb650864cf33712.png)
 ## 将找到的.xlr文件点开搜索需要的代码段
 - ![7](pic/96e33633168eb549b01c8be36e1ceab4.png)
